@@ -1,0 +1,68 @@
+ .home{
+    background-image: url(templ.jpg);
+    width:auto;
+    height: 653px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    width: 635px;
+    height: 440px;
+    border-radius: 5px;
+    display: flex;
+    flex: row;
+}
+.left{
+    width: 223px;
+    height: 440px;
+    background-image:url(tem.JPG);
+    background-size: cover;
+    opacity: 0.9;
+}
+.right{
+    width: 412px;
+    height: 440px;
+    background-color:#36414E;
+    opacity: 0.9;
+}
+.welcome{
+    color: white;   
+    text-align: center;
+}
+.email{
+    border-bottom:1px solid white;
+    margin-left: 40px;
+    width:300px;
+    color: white;
+    font-size:25px;
+}
+.label{
+    color:#A6A6A6;
+    margin-left: 40px;
+}
+input[type=text]{
+    background-color:#36414E;
+    border-bottom: 2px solid white;
+    border-top:0px;
+    border-left: 0;
+    border-right: 0;
+    box-sizing: border-box
+}
+.btn{
+    background-color:#7289DA;
+    border:1px solid #7289DA;
+    margin-left: 40px;
+    width: 300px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+}
+.bb{
+    background-color:#7289DA;
+    border:1px solid #7289DA;
+    margin-top: -130px;
+    position: absolute;
+    margin-left: 937px;
+    }    

@@ -1,0 +1,16 @@
+.my-courses{
+    list-style-type:none;
+    display:flex;
+    margin:0;
+    width:50%;
+    justify-content: space-around;
+  }
+  .my-courses li {
+    background:#444;
+    width:150px;
+    margin:5px;
+    color:#e5e5e5;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
